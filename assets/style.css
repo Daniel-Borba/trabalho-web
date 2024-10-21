@@ -6,18 +6,19 @@
     color:black;
 }
 
-.frente {
-    width: 200px;
-    height: 100px;
-    position: absolute;
-    text-align: center;
+header {background-color: #910f27;
 }
 
-:root {
-    --color-white: #fff;
-    --color-vinho: #830D23;
-    --color-vinho2: #910f27;
-    --color-vinho3: #770d21;
-    --color-vinho4: #6b0114;
-    --hover-shadows: 16px 16px 33px #121212, -16px -16px 33px #303030 --accent: fuchsia;
+.card-body {
+    background-color: white;
 }
+
+.card-title{
+    background-color: white;
+}
+
+.card-text {
+    background-color: white;
+}
+
+
